@@ -577,20 +577,20 @@ a {
 .yoga-template .footer .copyright .created-by {
 	color: #fff;
 }
-.yoga-template .footer .copyright .created-by:hover {
+/* .yoga-template .footer .copyright .created-by:hover {
 	color: #347A45;
 	text-decoration: none;
-}
+} */
 .yoga-template .footer .copyright .social {
 	text-align: right;
-	font-size: 14px;
+	font-size: 24px;
 	line-height: 26px;
 }
 .yoga-template .footer .copyright .social a {
 	color: #fff;
 }
 .yoga-template .footer .copyright .social a:hover {
-	color: #347A45;
+	font-size: 28px;
 }
 .yoga-template .footer .copyright .social .fab {
 	padding-left: 14px;
