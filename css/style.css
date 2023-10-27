@@ -585,6 +585,7 @@ a {
 	text-align: right;
 	font-size: 24px;
 	line-height: 26px;
+	font-family: 'Courier New', Courier, monospace;
 }
 .yoga-template .footer .copyright .social a {
 	color: #fff;
