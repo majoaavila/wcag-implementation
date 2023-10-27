@@ -153,7 +153,7 @@ a {
 	margin-bottom: 51px;
 	width: 97%;
 }
-.yoga-template .banner .banner-content a.banner-btn {
+.yoga-template .banner .banner-content button.banner-btn {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
 	line-height: 25px;
@@ -165,7 +165,7 @@ a {
 	border-radius: 3px;
 	text-transform: uppercase;
 }
-.yoga-template .banner .banner-content a.banner-btn:hover {
+.yoga-template .banner .banner-content button.banner-btn:hover {
 	text-decoration: none;
 	background-color: #634900;
 }
